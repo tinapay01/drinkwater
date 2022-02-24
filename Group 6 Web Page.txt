@@ -11,8 +11,8 @@
 <center>
 <table cellpadding="50">
 <tr>
-	<td> <a href="https://docs.google.com/document/d/1onQY8-FlZIZ7fcxRu3oHWnfNSYuijL22usIrXRW8Wkk/edit?usp=drivesdk"> Tle </a> </td>
-	<td> <a href="https://docs.google.com/document/d/1f-cW0YuH3fQ1PpQ3tyN8ju2PgvBxYbVy/edit?usp=drivesdk&ouid=107766740904940769943&rtpof=true&sd=true"> Math </a> </td>
+	<td> <a href="TLE.html"> Tle </a> </td>
+	<td> <a href="MATH9.html"> Math </a> </td>
 	<td> <a href="https://docs.google.com/document/d/1HDCXbEtBEfT7XMUqja7aeJ7gJmr4pwNVOYqNLSY3yqI/edit?usp=drivesdk"> Cae </a> </td>
 	<td> <a href="https://docs.google.com/document/d/1CjqtDbF6kpSf-dCPCRef27Z14TySz0WpKdrnL4uc2Y4/edit?usp=drivesdk"> Cle </a> </td>
 </tr>
